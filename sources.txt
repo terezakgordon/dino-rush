@@ -1,0 +1,35 @@
+sources:
+
+steak
+https://beast-pixels.itch.io/crafting-materials
+
+font
+https://datagoblin.itch.io/monogram
+
+sky
+https://anokolisa.itch.io/sidescroller-pixelart-sprites-asset-pack-forest-16x16
+
+tileset
+https://ansimuz.itch.io/sunny-land-pixel-game-art
+
+character
+https://arks.itch.io/dino-characters
+
+asteroid
+https://foozlecc.itch.io/void-environment-pack
+
+Credits
+
+Artwork
+Steak: Crafting Materials by Beast Pixels
+Tileset: Sunny Land by Ansimuz
+Sky: Legacy Fantasy Game Asset by Anokolisa
+Characters: Dino Characters by @ScissorsMarks (Twitter)
+Asteroid: Asteroid by Foozle (www.foozle.io)
+Buttons: Pixel UI Pack by by Kenney Vleugels for Kenney (www.kenney.nl)
+
+Music
+Easy 8bit by Simba Chinomona
+
+Font
+Font: monogram by Datagoblin
